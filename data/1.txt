@@ -1,0 +1,18 @@
+Sahil Kumar
+19
+Male
+7300466153
+Manpur
+Sujeet Kumar
+40
+9934421911
+Manpur
+Reena Devi
+37
+7979702705
+Manpur
+2
+0
+No Admission Date
+2020-05-28 18:31:04.242260 Medicines 300
+2020-05-28 18:31:10.337332 Fruits 100
